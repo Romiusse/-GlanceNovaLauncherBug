@@ -2,4 +2,7 @@
 
 Steps to reproduce:
 1) Install widget on main screen
-2) rotate the screen on 90 degrees
+
+The widget should be completely filled with red, but in fact its dimensions are equal to the widget in a horizontal position.
+
+![](https://github.com/Romiusse/-GlanceNovaLauncherBug/blob/main/bug.jpg)
