@@ -1,4 +1,4 @@
-# Incorrect widget view when screen rotated=
+# Incorrect widget view
 
 Steps to reproduce:
 1) Install widget on main screen
